@@ -1,0 +1,12 @@
+/* Footer styles for accessibility support */
+footer {
+    background-color: #FF5A5F;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+    position: relative;
+    bottom: 0;
+}
+
+/* Add more footer styles as needed */
+

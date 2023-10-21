@@ -1,0 +1,10 @@
+/* Places styles for accessibility support */
+.places {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.place {
+    flex
+

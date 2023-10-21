@@ -1,0 +1,14 @@
+/* Header styles for responsive design */
+header {
+    background-color: #FF5A5F;
+    text-align: center;
+    padding: 10px 0;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add more header styles as needed */
+

@@ -1,0 +1,13 @@
+/* Common styles for responsive design */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 100%;
+    padding: 10px;
+}
+
+/* Add more common styles as needed */
+

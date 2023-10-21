@@ -1,0 +1,14 @@
+/* Common styles for accessibility support */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.container {
+    max-width: 100%;
+    padding: 10px;
+}
+
+/* Add more common styles as needed */
+

@@ -1,0 +1,22 @@
+/* Filters styles for accessibility support */
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.locations, .amenities, .search-button {
+    width: 100%;
+}
+
+.locations, .amenities {
+    margin-bottom: 10px;
+}
+
+/* Add more filter styles as needed */
+
